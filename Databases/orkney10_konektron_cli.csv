@@ -1,0 +1,91 @@
+"id_address";"id_users";"as_address";"as_number";"as_block";"as_city";"as_uf";"as_complement";"as_cep";"as_created";"as_modified"
+"1";"1";"Servidão Silvino Izidoro Pires";"701";"Armação do Pântano do Sul";"Florianópolis";"SC";"casa";"88066345";"2020-04-30 14:45:21";NULL
+"2";"2";"Rua Camões";"711";"Alto da Rua XV";"Curitiba";"PR";"apto 201";"80045260";"2020-04-30 14:45:21";NULL
+"3";"3";"Rua Góis de Araújo";"622";"Vila Dom Pedro II";"São Paulo";"SP";"Casa Verde 1";"2243070";"2020-05-07 18:11:01";"2020-05-07 18:11:01"
+"39";"8";"Rua Guaporé";"621";"Balneário Remanso";"Rio das Ostras";"RJ";"Casa";"28893108";"2020-05-07 19:26:21";"2020-05-07 19:26:21"
+"id_admin";"id_auth";"ad_name";"ad_nickname";"ad_picture";"ad_natId";"ad_address";"ad_number";"ad_complement";"ad_cep";"ad_phone";"ad_email";"ad_password";"ad_token";"ad_created";"ad_modified"
+"1";"3";"admin_konektron";"Adm_Konektron";"https://konektron.orkneytech.com.br/app_web/images/avatar/logo-konektron.png";NULL;NULL;NULL;NULL;NULL;NULL;"orkneytech@orkneytech.com.br";"NitIQlzH";NULL;"2019-06-26 16:21:05";NULL
+"2";"3";"Ivam Galvao Filho";"Ivam_GF";"https://konektron.orkneytech.com.br/app_web/images/avatar/avatar_masc.png";"3385867924";"Rua Pedro Alves";"152";"apto 302";"88110475";"48984127518";"ivam@orkneytech.com.br";"3Wo7x6Jy";"4d756258197f10fca4671b18e25412a9";"2019-06-26 16:21:05";NULL
+"id_auth";"au_type";"au_token_private";"au_token_public"
+"1";"users";"52112632561b7d19fc775b47d4e752b50053e61d";"d633e0a4e9158b7b364b685aae782d2bb548b03d"
+"2";"providers";"971b7e412c11e19fcf15b01f4e8766a6fd6706b3";"feaca5cda6f6a8954042eb5e2b73ac82edf59992"
+"3";"admin";"d633e0a4e9158b7b364b685aae782d2bb548b03d";"f5f78d2998814ab550ab002e7905df5ac229e9dc"
+"id_cards";"id_users";"ca_name";"ca_number";"ca_validity";"ca_cod";"ca_brand";"ca_created";"ca_modified"
+"11";"8";"Card 2";"123456";"321654";"123";"caf1a3dfb505ffed0d024130f58c5cfa";"2020-05-06 10:34:26";"2020-05-06 10:34:26"
+"12";"8";"Card 2";"132";"123";"123";"caf1a3dfb505ffed0d024130f58c5cfa";"2020-05-05 19:49:21";"2020-05-05 19:49:21"
+"15";"8";"Card 2";"132";"123";"123";"caf1a3dfb505ffed0d024130f58c5cfa";"2020-05-07 19:26:52";"2020-05-07 19:26:52"
+"id_category";"ct_title";"ct_description";"ct_created";"ct_modified"
+"1";"Massoterapia";"Serviços de Massoterapia.";"2020-05-07 16:29:40";"2020-05-07 19:29:40"
+"2";"Estética";"Serviços de Beleza e Estética";"2020-04-30 14:43:51";"2020-04-30 14:43:51"
+"3";"Cabeleireiro";"Serviços de Beleza e Cabeleireiro";"2020-04-30 14:43:51";"2020-04-30 14:43:51"
+"4";"Maqueadora";"Serviços de Beleza e Estética para Maquiagem";"2020-05-04 21:25:03";"2020-05-04 21:25:03"
+"6";"Maqueadora";"Serviços de Beleza e Estética para Maquiagem. ";"2020-05-06 11:12:09";"2020-05-06 11:12:09"
+"9";"Maqueadora";"Serviços de Beleza e Estética para Maquiagem";"2020-05-07 19:29:36";"2020-05-07 19:29:36"
+"id_category_aux";"id_category";"id_service";"cx_created";"cx_modified"
+"1";"1";"3";"2020-05-07 16:30:09";"2020-05-07 19:30:09"
+"4";"1";"3";"2020-05-07 16:30:04";NULL
+"id_log";"id_users";"id_providers";"id_admin";"lo_type";"lo_description";"lo_created";"lo_modified"
+"3";"8";NULL;NULL;"notify";"Teste log";"2020-05-05 15:22:17";"2020-05-05 15:22:17"
+"4";"8";NULL;NULL;"notify";"Teste log";"2020-05-05 19:51:10";"2020-05-05 19:51:10"
+"5";"8";NULL;NULL;"notify";"Teste log";"2020-05-05 19:51:35";"2020-05-05 19:51:35"
+"6";"8";NULL;NULL;"notify";"Teste log";"2020-05-06 10:41:17";"2020-05-06 10:41:17"
+"7";"8";NULL;NULL;"notify";"Teste log 1";"2020-05-07 14:09:17";"2020-05-07 14:09:17"
+"8";"8";NULL;NULL;"notify";"Teste log";"2020-05-07 19:27:19";"2020-05-07 19:27:19"
+"9";"8";NULL;NULL;"notify";"Teste log";"2020-05-07 18:14:57";"2020-05-07 18:14:57"
+"version"
+"id_order";"id_users";"id_payment";"or_created";"or_modified"
+"4";"8";"3";"2020-05-07 14:16:17";"2020-05-07 14:16:17"
+"5";"8";"3";"2020-05-05 19:52:36";"2020-05-05 19:52:36"
+"8";"8";"3";"2020-05-07 19:27:33";"2020-05-07 19:27:33"
+"id_payment";"id_users";"id_service";"id_cards";"pa_quant";"pa_value";"pa_type";"pa_created";"pa_modified"
+"3";"8";"1";"11";"10";"5.90";"money";"2020-05-05 15:23:27";"2020-05-05 15:23:27"
+"4";"8";"1";"11";"10";"6.99";"money";"2020-05-07 16:28:18";"2020-05-07 19:28:18"
+"7";"8";"1";"11";"10";"5.90";"money";"2020-05-07 19:27:57";"2020-05-07 19:27:57"
+"id_profile";"id_users";"pf_name";"pf_nickname";"pf_picture";"pf_gender";"pf_natId";"pf_phone";"pf_birthday";"pf_balance";"pf_created";"pf_modified"
+"1";"1";"Cauã Eduardo Kevin Costa";"caua_ekc";"https://konektron.orkneytech.com.br/app_web/images/avatar/avatar_masc.png";"masculino";"54953151976";"4827167482";"0000-00-00";"0.00";"2020-04-30 14:43:54";"2020-04-30 14:43:54"
+"2";"2";"Theo Sérgio Bernardes";"theo_sb";"https://konektron.orkneytech.com.br/app_web/images/avatar/avatar_masc.png";"masculino";"61446908917";"41996651587";"0000-00-00";"0.00";"2020-04-30 14:43:54";"2020-04-30 14:43:54"
+"3";"3";"Sônia Sara Lara Melo";"sonia_slm";"https://konektron.orkneytech.com.br/app_web/images/avatar/avatar_fem.png";"feminino";"61446908917";"54999035702";"1987-03-25";"1000.00";"2020-05-06 11:07:11";"2020-05-06 11:07:11"
+"7";"8";"Daniela Sara Joana Lima";"daniela";"https://konektron.orkneytech.com.br/app_web/images/avatar/avatar_tr4ctor.png";"masculino";"61446908917";"54999035702";"1987-03-25";"1000.00";"2020-05-07 16:29:17";"2020-05-07 19:29:17"
+"10";"8";"Daniela Sara Joana Lima";"daniela";"https://konektron.orkneytech.com.br/app_web/images/avatar/avatar_tr4ctor.png";"feminino";"36497749845";"9626152728";"1994-04-14";"1.81";"2020-05-07 19:29:00";"2020-05-07 19:29:00"
+"id_providers";"id_auth";"pr_name";"pr_logo";"pr_natId";"pr_ie";"pr_address";"pr_number";"pr_block";"pr_city";"pr_uf";"pr_complement";"pr_cep";"pr_phone";"pr_site";"pr_email";"pr_password";"pr_balance";"pr_token";"pr_token_forgot";"pr_status";"pr_created";"pr_modified"
+"1";"2";"Breno e Lorenzo Gráfica ME";"https://konektron.orkneytech.com.br/app_web/images/avatar/logo_1.png";"22327770000186";"763606537";"Avenida Governador Adolfo Konder";"896";"São Vicente";"Itajaí";"SC";;"88308000";"4728874680";"www.brenoelorenzograficame.com.br";"administracao@brenoelorenzograficame.com.br";"2AMre0U5";NULL;NULL;NULL;;"2019-06-26 16:25:44";"2019-06-26 16:25:44"
+"2";"2";"Sophia e Edson Vidros Ltda";"https://konektron.orkneytech.com.br/app_web/images/avatar/logo_2.png";"19606054000123";"765257924";"Rua Lucarana";"870";"Cidade Nova São Miguel";"São Paulo";"SP";NULL;"8042450";"1139088653";"www.sophiaeedsonvidrosltda.com.br";"ti@sophiaeedsonvidrosltda.com.br";"KbJ6KGGo";NULL;NULL;NULL;;"2019-06-26 16:25:44";"2019-06-26 16:25:44"
+"3";"2";"Lucca e Benjamin Locações de Automóveis Ltda";"https://konektron.orkneytech.com.br/app_web/images/avatar/logo_3.png";"89539750000140";"705868958";"Rua Nicolau José de Souza";"887";"Espinheiros";"Joinville";"SC";NULL;"89228740";"4725783313";"www.luccaebenjaminlocacoesdeautomoveisltda.com.br";"ouvidoria@luccaebenjaminlocacoesdeautomoveisltda.com.br";"yLmtZ1T6";NULL;NULL;NULL;;"2019-06-26 16:25:44";"2019-06-26 16:25:44"
+"4";"2";"Lívia e Sophia Entregas Expressas Ltda";"https://konektron.orkneytech.com.br/app_web/images/avatar/logo_1.png";"58004870000119";"287528723824";"Travessa Marco Cavazzoni";"918";"Americanópolis";"São Paulo";"SP";NULL;"4429120";"5430282803";"www.liviaesophiaentregasexpressasltda.com.br";"ramon@barros.cc";"$2y$10$DXR1wOzWjjxjGq73hAUwxuNmKEWJl9aZuT8CK3BMVkX8G/7tB9Pxe";"0.00";"9906bf041c1ff38b719710dfc787b7d0";"07cbfb9a057d230277fed21e96e3fb49";"active";"2020-05-06 11:37:58";NULL
+"7";"2";"Ivam";"https://konektron.orkneytech.com.br/app_web/images/avatar/logo_1.png";"58004870000119";"287528723824";"Rua";"918";"Americanópolis";"São Paulo";"SP";NULL;"4429120";"5430282803";"www.ivam.com.br";"ivam@orkneytech.com.br";"$2y$10$dSN7l/pRSDNWszxHErJkJ.CfTwhE7.5cVWEULYfOL4P3KZvYn9V7i";"0.00";"f48a6b642ea64396419762c837ab38c5";NULL;"active";"2020-05-07 16:24:03";NULL
+"11";"2";"Ivam";"https://konektron.orkneytech.com.br/app_web/images/avatar/logo_1.png";"58004870000119";"287528723824";"Rua";"918";"Americanópolis";"São Paulo";"SP";NULL;"4429120";"5430282803";"www.orkneytech.com.br";"ivam.developer@gmail.com";"$2y$10$bhRN3pgWfrjcBYNu6eIJ.eSb8wIHnmKCA5KoFeeYTu8wkO1dLOEHS";"0.00";"9b3efc5aa3d5150db9f4abad51ab8fa5";"186728f231c67a39b8d5317f770578cb";"active";"2020-05-07 18:06:50";NULL
+"id_schedule";"sc_date";"sc_hour";"sc_value";"sc_status";"sc_created";"sc_modified"
+"1";"2020-04-20";"13:30:00";"97.90";"active";"2020-05-04 21:27:27";"2020-05-04 21:27:27"
+"2";"2020-04-20";"13:30:00";"97.99";"active";"2020-05-07 16:33:18";"2020-05-07 19:33:17"
+"5";"2020-04-20";"13:30:00";"97.90";"active";"2020-05-07 19:32:55";"2020-05-07 19:32:55"
+"id_schedule_aux";"id_schedule";"id_service";"id_users";"id_providers";"sa_created";"sa_modified"
+"1";"2";"3";"3";"3";"2020-05-07 16:34:51";"2020-05-07 19:34:51"
+"4";"2";"3";"8";"4";"2020-05-07 16:33:55";"2020-05-07 19:33:54"
+"5";"2";"3";"8";"3";"2020-05-07 16:34:42";"2020-05-07 19:34:42"
+"id_service";"id_providers";"sv_name";"sv_codigo";"sv_description";"sv_image";"sv_oldprice";"sv_bestprice";"sv_discount";"sv_infotec";"sv_infocomp";"sv_ean";"sv_gtin";"sv_tag";"sv_created";"sv_modified"
+"1";"4";"Serviço 2";"S123";"Serviço 2";;"30.00";"10.00";"20.00";"Informação técnica";"Informação complementar";"A1234565BC";"ASD6546513";"servico,teste,um";"2020-05-05 12:03:58";"2020-05-05 12:03:58"
+"2";"4";"Serviço 2";"S123";"Serviço 2";;"30.00";"10.00";"20.00";"Informação técnica";"Informação complementar";"A1234565BC";"ASD6546513";"servico,teste,um";"2020-05-05 12:04:13";"2020-05-05 12:04:13"
+"3";"4";"Serviço 3";"S321";"Serviço 3";;"30.00";"10.00";"20.00";"Informação técnica";"Informação complementar";"AB321654";"ACB123456";"servico,teste,um,dois,tres";"2020-05-06 11:17:55";"2020-05-05 12:05:07"
+"4";"4";"Serviço 4";"S321";"Serviço 4";;"30.00";"10.00";"20.00";"Informação técnica";"Informação complementar";"AB321654";"ACB123456";"servico,teste,um,dois,tres";"2020-05-05 15:26:47";NULL
+"5";"4";"Serviço 4";"S321";"Serviço 4";;"30.00";"10.00";"20.00";"Informação técnica";"Informação complementar";"AB321654";"ACB123456";"servico,teste,um,dois,tres";"2020-05-07 16:31:24";NULL
+"8";"4";"Serviço 2";"S123";"Serviço 2";;"30.00";"10.00";"20.00";"Informação técnica";"Informação complementar";"A1234565BC";"ASD6546513";"servico,teste,um";"2020-05-07 16:30:37";NULL
+"9";"4";"Serviço 2";"S123";"Serviço 2";;"30.00";"10.00";"20.00";"Informação técnica";"Informação complementar";"A1234565BC";"ASD6546513";"servico,teste,um";"2020-05-07 16:31:05";NULL
+"id_setting";"st_group";"st_description";"st_param";"st_value";"st_created";"st_modified"
+"1";"email";"Protocolo do e-mail ";"protocol";"smtp";"2020-05-04 10:51:13";NULL
+"2";"email";"Host SMTP";"smtp_host";"mail.orkneytech.com.br";"2020-05-04 16:03:15";NULL
+"3";"email";"Porta STMP";"smtp_port";"465";"2020-05-04 16:03:45";NULL
+"4";"email";"Usuário STMP";"smtp_user";"contatos@orkneytech.com.br";"2020-05-04 16:04:40";NULL
+"5";"email";"Senha STMP";"smtp_pass";"Orkneytech10106088";"2020-05-04 16:04:55";NULL
+"6";"email";"Crypto SMTP";"smtp_crypto";"ssl";"2020-05-04 16:05:11";NULL
+"7";"email";"Charset SMTP";"smtp_charset";"utf-8";"2020-05-04 11:05:34";NULL
+"id_users";"id_auth";"us_email";"us_password";"us_status";"us_token";"us_token_forgot";"us_created";"us_modified"
+"1";"1";"cauaeduardokevincosta@eletrotex.com.br";"$2y$10$eQn3cZLw8pcw70.Zt7axdue1/FhrDaqJOYd/oxhXnsBGdy4yH9G3W";"active";"aa0dee8723a1a9a0a14d22ec1b46c044";;"2019-11-16 15:00:43";"0000-00-00 00:00:00"
+"2";"1";"theosergiobernardes-95@prifree.fr";"$2y$10$dagr17kKLIwJQqjkrQE9TevIwE7v/z8f1jqU/vZ0tvL.ShfsiRuW6";"active";"e72288b103e85213718bf297b44874f9";;"2019-11-16 15:00:52";"0000-00-00 00:00:00"
+"3";"1";"soniasaralaramelo-98@viacorte.com.br";"$2y$10$pqzEcVovgcx7bQpbH66kHOFaJWMLJXajOjH8Ikmnn.CXTiqjz6ZCm";"active";"cf0180293c8f2fd853f8fc7a035e0a97";;"2019-11-16 15:01:00";"0000-00-00 00:00:00"
+"4";"1";"ivam@orkneytech.com.br";"$2y$10$g2Gl9k3vp91gCH999Y.z/uTyf0gzihO8ql/RUV9y62sL4TmrLgUWa";"active";"bda577933746b183be15a8da801e56b3";;"2020-05-07 13:16:23";"2019-11-16 14:31:06"
+"5";"3";"orkneytech@orkneytech.com.br";"$2y$10$SQY4NupOHQDA5.l2Jgpkd.PMUrPgNkW4yWX8pBLQ3li/tnPtbXGDy";"active";"a69d3e5caf025d9c1229b2ace333bc68";;"2019-11-16 15:01:17";"2019-11-16 14:34:22"
+"6";"3";"contato@orkneytech.com.br";"$2y$10$MwK2FdF1VaryXREva/qDl.p42PvD4ROanxzmbMFDzSJbHrciuRn5m";"active";"a953cfbe3fcd31330af7df29c4bef3ae";;"2019-11-16 16:14:36";"2019-11-16 14:34:38"
+"7";"2";"greicegalvao37@gmail.com";"$2y$10$3qZVm8kAi9isUxKkVlReaee/woHgrhGjND0QtfcIf2Orvo2Gp6uWq";"active";"c85d0b5880b986835b2dbfafd29682ba";;"2019-11-16 15:40:49";"2019-11-16 15:19:47"
+"8";"1";"ramon@barros.cc";"$2y$10$zmrpqRD/rJkkswOeq6voe.92YC/LP5B1vcG05ZFIBu27k/cBWC35O";"active";"9452db4a55e2d3f1b43d4262fccf7013";;"2020-05-07 15:49:36";NULL
+"18";"1";"example@example.com";"$2y$10$Z03/HTXbSwy2m392CDoFXu5hhMLSWHz9mEbH0YMIjy8qil7hKA8wq";"inactive";"d91c98d74ca3341fa438bd9a0f3eab10";NULL;"2020-05-07 16:09:58";NULL
+"26";"1";"ivam.developer@gmail.com";"$2y$10$EiEu7Ufhn5jjfuTAQX8PT.DUXySOHuThZf7yh.9jgq30oHR8gisPu";"active";"55988cabac41e9a4e910b77182936780";"be6fc1b4632dc37fdd2d112bc5a51370";"2020-05-07 18:06:32";NULL
